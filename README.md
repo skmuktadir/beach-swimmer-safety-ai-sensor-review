@@ -22,7 +22,6 @@ This repository contains the supplementary materials, curated datasets, and orga
 - [Getting Started](#getting-started)
 - [Citation](#citation)
 - [Contact](#contact)
-- [License](#license)
 
 ---
 
