@@ -221,6 +221,38 @@ Our systematic review analyzed **136 peer-reviewed studies** following PRISMA me
    - Multi-sensor data fusion
    - Drone-based surveillance
 
+| Paper | Published in |
+|-------|:------------:|
+| [SharkEye: Real-Time Autonomous Shark Alerting via Aerial Surveillance](https://doi.org/10.3390/DRONES4020018) | Drones 2020 |
+| [SeaDronesSee: Maritime Benchmark for Detecting Humans in Open Water](https://wacv2022.thecvf.com/) | WACV 2022 |
+| [MOBDrone: Drone Video Dataset for Man-Overboard Rescue](http://aimh.isti.cnr.it/dataset/MOBDrone) | arXiv 2022 |
+| [Smart Multi-Sensor Device to Detect Distress in Swimmers](https://www.mdpi.com/1424-8220/22/3/1059) | Sensors 2022 |
+| [Smart Cameras + 5G for Safe Coastal Areas](https://doi.org/10.1109/MVT.2017.2753540) | IEEE Vehicular Tech Mag 2017 |
+| [Smart Drowning Detection via RSSI Zigbee](https://doi.org/10.2991/978-94-6463-718-2_158) | ICSICE 2025 |
+| [Robust IoT System for Smart Beaches](https://doi.org/10.1016/j.iot.2024.101295) | Internet of Things 2024 |
+| [Automated Pool Safety with IoT & Transfer Learning](https://doi.org/10.3390/electronics9122082) | Electronics 2020 |
+| [Enhancing Water Safety: New Technologies for Drowning Detection](https://doi.org/10.3390/s24020331) | Sensors 2024 |
+| [Next-Gen Drowning Prevention (AI + IoT)](https://doi.org/10.1016/j.heliyon.2024.e35484) | Heliyon 2024 |
+| [Real-Time Beach Monitoring Using UAVs & Vision](https://doi.org/10.1109/ROBOT61475.2024.10797412) | ROBOT 2024 |
+| [DGTA-SeaDronesSee: Synthetic Data for UAV Detection](https://arxiv.org/abs/2112.12252) | arXiv 2021 |
+| [SynBASe: Synthetic Data for Swimmer Detection](https://doi.org/10.1016/j.engappai.2025.109586) | Eng. App. of AI 2025 |
+| [RipVIS: Rip Currents Video Benchmark](https://arxiv.org/abs/2504.01128) | arXiv 2025 |
+| [SeaPerson: Tiny-Person Detection Dataset](https://github.com/ucas-vg/PointTinyBenchmark) | Dataset 2022 |
+| [Sonar Swimmer Location Monitor](https://doi.org/10.1121/1.1492881) | JASA 2002 |
+| [AquaSense Wearable AI System](https://doi.org/10.1002/ett.70081) | Emerging Telecom Tech 2025 |
+| [Swimmer Safety Alert System (Marine Threats)](https://doi.org/10.55524/ijircst.2024.12.4.8) | IJIRCST 2024 |
+| [Data Fusion Accuracy Prediction](https://doi.org/10.3390/s21217007) | Sensors 2021 |
+| [Cloud + AI for Swimmer Movement](https://doi.org/10.1007/s11036-023-02167-x) | Mobile Net & Apps 2023 |
+| [Unsupervised Multi-Source Fusion](https://doi.org/10.1016/j.inffus.2021.10.017) | Information Fusion 2022 |
+| [Real-Time Multi-Sensor Tracking](https://doi.org/10.3390/pr11020501) | Processes 2023 |
+| [Wearable Swimming Analysis Framework](https://doi.org/10.3390/s21155162) | Sensors 2021 |
+| [Beach Water Quality Ensemble Models](https://doi.org/10.1016/j.scitotenv.2020.142760) | STOTEN 2021 |
+| [Rip Current ML Vulnerability Model](https://doi.org/10.1016/j.rineng.2023.101704) | Results in Eng. 2024 |
+| [SOSeas: Drowning Risk Prediction Tool](https://doi.org/10.1080/1755876X.2021.1999107) | J. Operational Oceanography 2021 |
+| [Drone Revolution in Shark Monitoring](https://doi.org/10.3390/drones5010008) | Drones 2021 |
+| [Drone Edge-AI Litter Detection System](https://doi.org/10.3390/drones8120750) | Drones 2024 |
+| [UAV-Assisted 6G Smart Safety Survey](https://doi.org/10.3390/drones6070177) | Drones 2022 |
+
 4. **Challenges & Applications** (21 papers)
    - Environmental robustness
    - Privacy and ethics
