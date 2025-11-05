@@ -7,7 +7,7 @@
 > **A Systematic Review of Artificial Intelligence and Sensor Technologies for Swimmer Safety in Beach Environments**
 
 This repository contains the supplementary materials, curated datasets, and organized bibliography for our systematic review paper examining AI-driven drowning detection and swimmer safety technologies.
-
+📅 Last update on 5 Nov 2025
 ---
 
 ## 📋 Table of Contents
