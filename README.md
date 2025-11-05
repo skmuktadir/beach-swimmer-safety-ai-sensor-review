@@ -1,6 +1,6 @@
 # Beach Swimmer Safety AI & Sensor Review
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!--[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)-->
 [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](link-to-your-paper)
 [![Dataset](https://img.shields.io/badge/Datasets-10+-blue.svg)](#datasets)
 
@@ -73,7 +73,6 @@ Drowning is one of the ten leading causes of unintentional injury-related death 
 beach-swimmer-safety-ai-sensor-review/
 │
 ├── README.md                          # This file
-├── LICENSE                            # MIT License
 │
 ├── paper/
 │   ├── main_paper.pdf                # Full systematic review paper
