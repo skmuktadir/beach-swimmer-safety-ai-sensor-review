@@ -185,6 +185,7 @@ Our systematic review analyzed **136 peer-reviewed studies** following PRISMA me
    - Wearable technologies
    - Acoustic and environmental sensors
    - Communication protocols
+
 | Paper | Published in |
 |-------|:------------:|
 | [Smart Multi-Sensor Device to Detect Distress in Swimmers](https://doi.org/10.3390/s22031059) | Sensors 2022 |
