@@ -143,6 +143,60 @@ Our systematic review analyzed **136 peer-reviewed studies** following PRISMA me
 - **After screening**: 2,183 papers
 - **Final inclusion**: 136 papers
 
+We conducted systematic searches across multiple academic databases (IEEE Xplore, ACM Digital Library, Scopus, Google Scholar, Web of Science, and PubMed) using the following comprehensive query:
+
+```
+("swim*" OR "drown*" OR "person in water" OR "marine rescue")
+AND ("*stress" OR "distress detection" OR "drowning detection" 
+     OR "near-drowning" OR "search and rescue")
+AND ("ocean*" OR "sea*" OR "open water" OR "beach*" OR "coastal")
+AND ("AI" OR "artificial intelligence" OR "machine learning" 
+     OR "deep learning" OR "computer vision" OR "image processing" 
+     OR "video analytics")
+AND ("wearable*" OR "sensor*" OR "smart device*" OR "UAV*" OR "drone*")
+AND NOT ("pool*" OR "swimming pool*")
+```
+
+#### Supplementary Targeted Queries
+
+To ensure comprehensive coverage, we executed six specialized queries focusing on different aspects of the research domain:
+
+1. **Query 1 - General Drowning Detection in Ocean Contexts:**
+   ```
+   "drowning detection" AND (ocean OR sea OR beach) 
+   AND ("deep learning" OR "AI") -"swimming pool"
+   ```
+
+2. **Query 2 - Marine Rescue with AI and Sensors:**
+   ```
+   "marine rescue" AND ("computer vision" OR "sensor") 
+   AND (coastal OR "open water") -"swimming pool"
+   ```
+
+3. **Query 3 - Person in Water + Distress + Wearable Devices:**
+   ```
+   "person in water" AND ("distress detection" OR stress) 
+   AND (wearable OR "smart device") -"swimming pool"
+   ```
+
+4. **Query 4 - Drowning or Near-Drowning + AI + Video Analytics:**
+   ```
+   (drowning OR "near-drowning") AND ("video analytics" OR "deep learning") 
+   AND ocean -"swimming pool"
+   ```
+
+5. **Query 5 - Search and Rescue in Beach Environments:**
+   ```
+   "stress detection" AND ("open water" OR sea) 
+   AND ("smart device" OR wearable) -"swimming pool"
+   ```
+
+6. **Query 6 - AI + Image Processing + Swimmer Safety:**
+   ```
+   "swimmer safety" AND ("image processing" OR "computer vision") 
+   AND AI -"swimming pool"
+   ```
+
 ### Categories
 1. **Vision-Based AI Systems** (45 papers)
    - Object detection (YOLO, Faster R-CNN, SSD)
