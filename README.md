@@ -185,6 +185,35 @@ Our systematic review analyzed **136 peer-reviewed studies** following PRISMA me
    - Wearable technologies
    - Acoustic and environmental sensors
    - Communication protocols
+| Paper | Published in |
+|-------|:------------:|
+| [Smart Multi-Sensor Device to Detect Distress in Swimmers](https://doi.org/10.3390/s22031059) | Sensors 2022 |
+| [AI-Based Smart Surveillance for Drowning & Theft Detection on Beaches](https://doi.org/10.1002/9781394168002.ch10) | Wiley Book Chapter 2023 |
+| [Wearables in Swimming for Real-Time Feedback: Systematic Review](https://doi.org/10.3390/s22103677) | Sensors 2022 |
+| [Automated Wearable Device to Detect Drowning Incidents](https://doi.org/10.1109/ICAIT61638.2024.10690678) | ICAIT 2024 |
+| [A Portable Wearable Blood-Oxygen Sensor for Swimming Safety](https://doi.org/10.3390/s22103823) | Sensors 2022 |
+| [Smart Multi-Sensor Drowning Detection Device With Real-Time Alarm](https://doi.org/10.1109/jsen.2024.3518436) | IEEE Sensors Journal 2025 |
+| [A Smart Multi-Sensor Device to Detect Distress in Swimmers](https://doi.org/10.3390/s22031059) | Sensors 2022 |
+| [Enhancing Water Safety: Tech Approaches for Drowning Detection](https://doi.org/10.3390/s24020331) | Sensors 2024 |
+| [Advances & Challenges in Drowning Detection Systems](https://www.mdpi.com/2078-2489/15/11/721) | Information 2024 |
+| [Novel Drowning Detection System Using IoT & Sensors](https://doi.org/10.1109/NPSC.2018.8771844) | NPSC 2018 |
+| [Connected Wearable Sensors for Swimming Analytics](https://doi.org/10.3390/s21155162) | Sensors 2021 |
+| [Low-Power Underwater Wireless Sensor Network Design](https://doi.org/10.3390/s22041618) | Sensors 2022 |
+| [Underwater Wireless Sensor Networks Review](https://doi.org/10.12928/TELKOMNIKA.v21i3.24010) | TELKOMNIKA 2023 |
+| [Sonar-Based Swimmer Location Monitor](https://doi.org/10.1121/1.1492881) | JASA 2002 |
+| [Thermal & Radar Systems for Maritime Rescue](https://doi.org/10.1364/OE.15.012296) | Optics Express 2007 |
+| [Distributed Acoustic Sensing for Ocean Applications](https://doi.org/10.58046/5J60-FJ89) | 2025 |
+| [Drone Relay for Swimmer Distress Response](https://doi.org/10.1109/ARGENCON49523.2020.9505478) | IEEE ARGENTCON 2020 |
+| [Wearable Pulse-Oximeter for Pool Safety](https://doi.org/10.3390/s22103823) | Sensors 2022 |
+| [Triboelectric Self-Powered Drowning Sensor](https://doi.org/10.1016/j.nanoen.2021.106835) | Nano Energy 2022 |
+| [Self-Powered ZnO Biosensor for Underwater Motion](https://doi.org/10.3390/bios11050147) | Biosensors 2021 |
+| [Anti-Swelling Hydrogel Strain Sensor](https://doi.org/10.1002/adfm.202107404) | Advanced Functional Materials 2021 |
+| [Carbon Fiber Strain Sensor for Underwater Respiration](https://doi.org/10.1016/j.apmt.2024.102165) | Applied Materials Today 2024 |
+| [Amphibian-Inspired Ionogel Sensor for Swimmer Motion](https://github.com/ucas-vg/PointTinyBenchmark) | 2024 |
+| [Superhydrophobic Fabric Sensor for Water Motion](https://doi.org/10.1021/acsnano.2c08325) | ACS Nano 2022 |
+| [Energy-Optimized Routing for UWSN Sensor Nodes](https://doi.org/10.3390/s22041618) | Sensors 2022 |
+| [Energy-Aware Clustering in UWSNs](https://doi.org/10.1016/j.scitotenv.2023.165818) | STOTEN 2023 |
+| [Buoy-Based Sensor Noise & Stability Issues in Marine Sensing](https://doi.org/10.12928/TELKOMNIKA.v21i3.24010) | TELKOMNIKA 2023 |
 
 3. **Integrated Multi-Modal Approaches** (32 papers)
    - AI-IoT integration
