@@ -1,14 +1,14 @@
 # Beach Swimmer Safety AI & Sensor Review
 
 <!--[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)-->
-[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](link-to-your-paper)
+<!--[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](link-to-your-paper)-->
 [![Dataset](https://img.shields.io/badge/Datasets-10+-blue.svg)](#datasets)
 
 > **A Systematic Review of Artificial Intelligence and Sensor Technologies for Swimmer Safety in Beach Environments**
 
 This repository contains the supplementary materials, curated datasets, and organized bibliography for our systematic review paper examining AI-driven drowning detection and swimmer safety technologies.
 
-📅 Last update on 5 Nov 2025
+📅 Last update on 7 Nov 2025
 ---
 
 ## 📋 Table of Contents
