@@ -313,54 +313,112 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
    - Privacy and ethics
    - Regulatory frameworks
 
-### Key Challenges & Research Gaps in Beach Safety AI
+| Paper | Published in |
+|-------|--------------|
+| [Benchmarking & Validation Protocols](https://doi.org/10.1371/journal.pmed.1000100) | PLoS Medicine 2009 |
+| [Rip Current Awareness & Swimmer Detection](https://doi.org/10.2112/SI72-007.1) | Journal of Coastal Research 2014 |
+| [Underwater Visibility Challenges](https://doi.org/10.1007/s10661-017-5905-7) | Environmental Monitoring & Assessment 2017 |
+| [Scalability for Large Beach Areas](https://doi.org/10.1109/MVT.2017.2753540) | IEEE Vehicular Technology Magazine 2017 |
+| [Privacy & GDPR Compliance](https://doi.org/10.3390/drones3040075) | Drones 2019 |
+| [Operational & Ethical Constraints](https://doi.org/10.3390/drones3040078) | Drones 2019 |
+| [UAV Identification of Swimmers in Distress](https://doi.org/10.1080/10903127.2019.1657211) | Prehospital Emergency Care 2020 |
+| [False Alarm Reduction & Generalization](https://doi.org/10.1016/j.scitotenv.2020.142760) | Science of the Total Environment 2021 |
+| [Sensor Durability & Maintenance Challenges](https://doi.org/10.1002/adfm.202107404) | Advanced Functional Materials 2021 |
+| [Challenges in Manual Lifeguard Surveillance](https://scholarworks.bgsu.edu/ijare/vol13/iss4/8) | Int. J. Aquatic Research & Education 2022 |
+| [Multimodal Dataset Integration Gaps](https://www.mdpi.com/1424-8220/22/3/1059) | Sensors 2022 |
+| [Signal Attenuation in Underwater Communication](https://doi.org/10.1109/JSEN.2021.3119977) | IEEE Sensors Journal 2022 |
+| [Energy Consumption in UWSNs](https://doi.org/10.3390/s22041618) | Sensors 2022 |
+| [Advances & Challenges in Drowning Detection Systems](https://www.mdpi.com/2078-2489/14/1/52) | Information 2023 |
+| [Computational Demands & Edge Deployment](https://doi.org/10.1049/ipr2.12765) | IET Image Processing 2023 |
+| [Environmental & Biological Threats](https://doi.org/10.3389/fmicb.2023.1210192) | Frontiers in Microbiology 2023 |
+| [Sensor Zero-Offsets & Motion Response](https://doi.org/10.12928/TELKOMNIKA.v21i3.24010) | TELKOMNIKA 2023 |
+| [Low-Cost Sensors for Coastal Monitoring](https://www.mdpi.com/1424-8220/23/3/1717) | Sensors 2023 |
+| [Water Surface Acoustic Wave Detection](https://doi.org/10.3390/rs15164022) | Remote Sensing 2023 |
+| [Multi-Domain Enhancement for Underwater Images](https://doi.org/10.3390/s23218983) | Sensors 2023 |
+| [Drowning Behavior Detection Challenges](https://doi.org/10.1007/s00521-023-08526-9) | Neural Computing & Applications 2023 |
+| [Environmental Robustness in Dynamic Beach Conditions](https://doi.org/10.110110/ROBOT61475.2024.10797412) | ROBOT 2024 |
+| [Technological Approaches for Drowning Detection – Review](https://doi.org/10.3390/s24020331) | Sensors 2024 |
+| [Automated Drowning Detection Review & Challenges](https://www.mdpi.com/2078-2489/15/11/721) | Information 2024 |
+| [Cross-Domain Transferability Challenges](https://doi.org/10.3390/ai5020030) | AI 2024 |
+| [Algorithmic Bias & Fairness Audits](https://doi.org/10.3390/sci6010003) | Sci 2024 |
+| [Training & Risk Perception Limitations](https://doi.org/10.1136/ip-2024-045574) | Int. J. Environmental Research & Public Health 2024 |
+| [Rip Current Awareness & Education Gaps](https://doi.org/10.1007/s11069-024-06715-w) | Natural Hazards 2024 |
+| [Cyanobacterial Blooms & Climate Change](https://doi.org/10.1136/bmjopen-2024-085406) | BMJ Open 2024 |
+| [Plastic Pollution & Pathogen Exposure](https://doi.org/10.1016/j.watres.2024.122028) | Water Research 2024 |
+| [Data Scarcity & Testing Limitations](https://www.mdpi.com/2078-2489/15/11/721) | Information 2024 |
+| [Machine Learning for Rip Current Prediction](https://doi.org/10.1016/j.rineng.2023.101704) | Results in Engineering 2024 |
+| [Data Acquisition Gaps & Synthetic Data](https://doi.org/10.1016/j.engappai.2024.109586) | Engineering Applications of AI 2025 |
+
+
+2. **Foundational & Supporting Research**
+   - Wearable technologies
+   - Acoustic and environmental sensors
+   - Communication protocols
 
 | Paper | Published in |
-|-------|:------------:|
-| [Water quality & environmental challenges at Mosqueiro Island beaches](https://doi.org/10.24857/rgsa.v18n3-029) | Revista de Gestão Social e Ambiental 2023 |
-| [Floating & beach landing records of Sargassum beyond the Sargasso Sea](https://doi.org/10.1088/2515-7620/abd109) | Environmental Research Communications 2020 |
-| [BeachLog: An interactive beach picture for multiple uses](https://doi.org/10.1016/j.marpolbul.2023.115156) | Marine Pollution Bulletin 2023 |
-| [Urbanization/environmental features on sandy beach macrobenthos](https://doi.org/10.1016/j.marpolbul.2022.113962) | Marine Pollution Bulletin 2022 |
-| [Beach nourishment compatibility & suitability (Tuscany, Italy)](https://doi.org/10.1016/j.marpolbul.2015.01.021) | Marine Pollution Bulletin 2015 |
-| [Disability inclusion in beach precincts: Beach for all abilities](https://doi.org/10.1080/14413523.2022.2059998) | Sport Management Review 2022 |
-| [Social dimension of sandy beaches via predictive modelling](https://doi.org/10.1016/j.jenvman.2018.03.006) | Journal of Environmental Management 2018 |
-| [Advanced approaches for drowning detection: A review](https://doi.org/10.48084/etasr.7804) | ETASR 2024 |
-| [Drowning prevention: define vs. gather evidence first?](https://doi.org/10.25035/IJARE.10.04.01) | International Journal of Aquatic Research and Education 2019 |
-| [Neural network algorithms for early pool drowning detection](https://doi.org/10.1109/ICIEAM57311.2023.10139153) | IEEE ICIEAM 2023 |
-| [Real-time swimmers detection with small-object DL](https://doi.org/10.1007/s00530-022-00995-7) | Multimedia Systems 2022 |
-| [Outdoor swimmer localisation with YOLO: real vs. synthetic data](https://doi.org/10.3390/ai5020030) | AI (MDPI) 2024 |
-| [MSRTD: Maritime search-and-rescue target dataset] | Drones (In press) 2025 |
-| SeaDronesSee: Maritime benchmark for detecting humans in open water | WACV 2022 |
-| [MOBDrone: Man-overboard drone video dataset](http://aimh.isti.cnr.it/dataset/MOBDrone) | arXiv/Dataset 2022 |
+|-------|--------------|
+| [PRISMA Statement for Systematic Reviews](https://doi.org/10.1371/journal.pmed.1000100) | PLoS Medicine 2009 |
+| [UAVs for Coastal Surveying](https://doi.org/10.1016/j.coastaleng.2016.03.011) | Coastal Engineering 2016 |
+| [Underwater Visibility Estimation](https://doi.org/10.1007/s10661-017-5905-7) | Environmental Monitoring & Assessment 2017 |
+| [5G-Envisioned Distributed Architecture](https://doi.org/10.1109/MVT.2017.2753540) | IEEE Vehicular Technology Magazine 2017 |
+| [Social Dimension of Sandy Beaches](https://doi.org/10.1016/j.jenvman.2018.03.006) | Journal of Environmental Management 2018 |
+| [Rip Current Rescues & Drowning in the US](https://doi.org/10.5194/nhess-19-389-2019) | Natural Hazards & Earth System Sciences 2019 |
+| [Public Interest in Rip Currents via Google Search](https://doi.org/10.1007/S11069-019-03696-Z) | Natural Hazards 2019 |
+| [Drowning Prevention: Define or Gather Evidence?](https://doi.org/10.25035/IJARE.10.04.01) | Int. J. Aquatic Research & Education 2019 |
+| [Environmental Justice & Public Beach Access](https://doi.org/10.1111/cico.12372) | City & Community 2019 |
+| [Requirements & Limitations of Thermal Drones for SAR](https://doi.org/10.3390/drones3040078) | Drones 2019 |
+| [Drone Legislation Evolution in OECD](https://doi.org/10.3390/drones3040075) | Drones 2019 |
+| [Coastal & Environmental Remote Sensing from UAVs](https://doi.org/10.2112/JCOASTRES-D-15-00005.1) | Journal of Coastal Research 2015 |
+| [Shelf Aggregate Environmental Compatibility](https://doi.org/10.1016/j.marpolbul.2015.01.021) | Marine Pollution Bulletin 2015 |
+| [Systematic Review of Floating Sargassum Records](https://doi.org/10.1088/2515-7620/abd109) | Environmental Research Communications 2020 |
 | [Scale Match for Tiny Person Detection](https://doi.org/10.1109/WACV45572.2020.9093394) | WACV 2020 |
-| [Victims on Ocean: Synthetic UAV SAR training data](https://doi.org/10.1109/ICCE48956.2021.9352109) | IEEE ICCE 2021 |
-| [Leveraging synthetic data in object detection on UAVs](https://arxiv.org/abs/2112.12252) | arXiv 2021 |
-| [SynBASe: Synthetic simulated swimmer dataset](https://doi.org/10.1016/j.engappai.2025.109586) | Engineering Applications of AI 2025 |
-| [RipVIS: Rip currents video instance segmentation benchmark](https://arxiv.org/abs/2504.01128) | arXiv 2025 |
-| [Automated rip current detection with R-CNNs](https://www.sciencedirect.com/science/article/pii/S0378383921000193) | Coastal Engineering 2021 |
-| [Smart multi-sensor device to detect distress in swimmers](https://www.mdpi.com/1424-8220/22/3/1059) | Sensors 2022 |
-| [Smart multi-sensor device to detect distress in swimmers](https://doi.org/10.1109/JSEN.2021.3119977) | IEEE Sensors Journal 2022 |
-| [Wearables in swimming for real-time feedback: systematic review](https://doi.org/10.3390/s22103677) | Sensors 2022 |
-| [Low-cost sensors for monitoring coastal climate hazards](https://www.mdpi.com/1424-8220/23/3/1717) | Sensors 2023 |
-| [Predicting best sensor fusion architecture (multi-domain)](https://doi.org/10.3390/s21217007) | Sensors 2021 |
-| [Data-level fusion model for unsupervised attribute selection](https://www.sciencedirect.com/science/article/pii/S1566253521002256) | Information Fusion 2022 |
-| [Multi-sensor data fusion for real-time multi-object tracking](https://doi.org/10.3390/pr11020501) | Processes 2023 |
-| [Multi-sensor data fusion solutions for blind/VI navigation](https://doi.org/10.3390/s23125411) | Sensors 2023 |
-| [Requirements & limitations of thermal drones for SAR](https://doi.org/10.3390/drones3040078) | Drones 2019 |
-| [Drone-enabled AI edge + 5G for real-time coastal litter](https://doi.org/10.3390/drones8120750) | Drones 2024 |
-| [Computing in the sky: UAV-assisted 6G survey](https://doi.org/10.3390/drones6070177) | Drones 2022 |
-| [Coastal & environmental remote sensing from UAVs](https://www.jcronline.org/doi/10.2112/JCOASTRES-D-15-00005.1) | Journal of Coastal Research 2015 |
-| [UAVs for coastal surveying](https://www.sciencedirect.com/science/article/pii/S0378383916300260) | Coastal Engineering 2016 |
-| [Drone revolution of shark science: a review](https://doi.org/10.3390/drones5010008) | Drones 2021 |
-| [Drone insights: AI people counting on beaches](https://doi.org/10.3390/drones8100579) | Drones 2024 |
-| [Public beach access & environmental justice](https://doi.org/10.1111/cico.12372) | City & Community 2019 |
-| [Drones, privacy and data protection] | LESIJ 2021 |
-| [UAS governance & regulatory frameworks in the EU](https://www.sciencedirect.com/science/article/pii/B9780323919401000128) | Book chapter (Academic Press) 2023 |
-| [Fairness & bias in AI: survey](https://doi.org/10.3390/sci6010003) | Sci 2024 |
-| [World Drowning Prevention Day](https://www.who.int/campaigns/world-drowning-prevention-day) | WHO 2025 |
-| [Improving coastal safety for international visitors](https://doi.org/10.1016/j.puhip.2025.100613) | Public Health in Practice 2025 |
-| [Risk factors for beach drowning in a multicultural community](https://doi.org/10.1371/journal.pone.0262175) | PLOS ONE 2022 |
-| [PRISMA statement: reporting systematic reviews](https://doi.org/10.1371/journal.pmed.1000100) | PLOS Medicine 2009 |
+| [Artificial Intelligence in the Water Domain](https://doi.org/10.1016/j.scitotenv.2020.142561) | Science of the Total Environment 2020 |
+| [Coastal Image Classification & Pattern Recognition](https://doi.org/10.3390/s21217352) | Sensors 2021 |
+| [Efficiency of Aerial Drones for Macrolitter](https://doi.org/10.3389/fenvs.2020.560237) | Frontiers in Environmental Science 2021 |
+| [Improved Sensor Fusion Architecture Prediction](https://doi.org/10.3390/s21217007) | Sensors 2021 |
+| [Framework for Intelligent Swimming Analytics](https://doi.org/10.3390/s21155162) | Sensors 2021 |
+| [Computing in the Sky: UAV-Assisted 6G Networks](https://doi.org/10.3390/drones6070177) | Drones 2022 |
+| [Disability Inclusion in Beach Precincts](https://doi.org/10.1080/14413523.2022.2059998) | Sport Management Review 2022 |
+| [Awareness Without Learning: Beach Risk Behaviors](https://doi.org/10.1016/j.heliyon.2022.e12186) | Heliyon 2022 |
+| [Data-Level Fusion for Unsupervised Selection](https://doi.org/10.1016/j.inffus.2021.10.017) | Information Fusion 2022 |
+| [Signal Attenuation in Underwater Communication](https://doi.org/10.1109/JSEN.2021.3119977) | IEEE Sensors Journal 2022 |
+| [SeaPerson: Maritime Tiny-Person Benchmark](https://github.com/ucas-vg/PointTinyBenchmark) | GitHub 2022 |
+| [Beach Monitoring & Attendance Prediction](https://doi.org/10.3390/app112210735) | Applied Sciences 2021 |
+| [Climate Change & Harmful Algal Blooms](https://doi.org/10.17269/s41997-022-00688-8) | Canadian J. Public Health 2022 |
+| [Neural Network Algorithms for Drowning Detection](https://doi.org/10.1109/ICIEAM57311.2023.10139153) | ICIEAM 2023 |
+| [Wave-Resolving Model for Rip Current Variability](https://doi.org/10.5194/nhess-23-3487-2023) | NHESS 2023 |
+| [Recreational Water Illness at Freshwater Beaches](https://doi.org/10.1371/journal.pone.0286584) | PLOS ONE 2023 |
+| [Water Surface Acoustic Wave Detection by Radar](https://doi.org/10.3390/rs15164022) | Remote Sensing 2023 |
+| [Microbial Source Tracking & QMRA](https://doi.org/10.3389/fmicb.2023.1210192) | Frontiers in Microbiology 2023 |
+| [Quantitative Microbial Risk Assessment (QMRA)](https://doi.org/10.1016/j.scitotenv.2023.165818) | Science of the Total Environment 2023 |
+| [Drones for Litter Monitoring on Coasts & Rivers](https://doi.org/10.1016/j.marpolbul.2023.115521) | Marine Pollution Bulletin 2023 |
+| [BeachLog: Interactive Beach Dataset](https://doi.org/10.1016/j.marpolbul.2023.115156) | Marine Pollution Bulletin 2023 |
+| [Water Quality & Environmental Challenges](https://doi.org/10.24857/rgsa.v18n3-029) | Revista de Gestão Social e Ambiental 2023 |
+| [Advancements in Ocean Environmental Monitoring](https://doi.org/10.12928/TELKOMNIKA.v21i3.24010) | TELKOMNIKA 2023 |
+| [Machine Learning in Marine Ecology](https://doi.org/10.1093/icesjms/fsad100) | ICES Journal of Marine Science 2023 |
+| [EU UAS Governance & Regulatory Frameworks](https://doi.org/10.1016/B978-0-323-91940-1.00012-8) | UAS in Agriculture 2023 |
+| [Scaffolded Training for Lifeguards](https://doi.org/10.1002/acp.4038) | Applied Cognitive Psychology 2022 |
+| [Risk Factors for Beach Drowning Prevention](https://doi.org/10.1371/journal.pone.0262175) | PLOS ONE 2022 |
+| [Drowning Behavior: Active vs Passive](https://doi.org/10.1007/s00521-023-08526-9) | Neural Computing & Applications 2023 |
+| [Beachgoer Perception of Coastal Bathing Risks](https://doi.org/10.1007/s11069-024-06715-w) | Natural Hazards 2024 |
+| [Cyanobacteria Toxin Exposure Protocol](https://doi.org/10.1136/bmjopen-2024-085406) | BMJ Open 2024 |
+| [Plastic Pollution & Human Pathogens](https://doi.org/10.1016/j.watres.2024.122028) | Water Research 2024 |
+| [Pose Estimation for Underwater Inspection](https://arxiv.org/abs/2407.16961) | arXiv 2024 |
+| [Rip Current Detection with UAV Video Analysis](https://arxiv.org/abs/2304.11783) | arXiv 2024 |
+| [Exploring Advanced Approaches for Drowning Detection](https://doi.org/10.48084/etasr.7804) | ETASR 2024 |
+| [Fairness & Bias in AI: Survey](https://doi.org/10.3390/sci6010003) | Sci 2024 |
+| [Sustainability of Recreational Practices on Beaches](https://doi.org/10.1016/j.jort.2024.100741) | J. Outdoor Recreation & Tourism 2024 |
+| [Vulnerability of Rip Currents](https://doi.org/10.1016/j.rineng.2023.101704) | Results in Engineering 2024 |
+| [Waterproof Stretchable Carbon Fiber Sensors](https://doi.org/10.1016/j.apmt.2024.102165) | Applied Materials Today 2024 |
+| [Anti-Swelling Gel Wearable Sensor](https://doi.org/10.1002/adfm.202400936) | Advanced Functional Materials 2024 |
+| [Mechanically Durable Superhydrophobic Sensors](https://doi.org/10.1021/acsami.3c14327) | ACS Applied Materials & Interfaces 2024 |
+| [Beach Risk Attendance Prediction](https://doi.org/10.1136/ip-2024-045574) | IJERPH 2024 |
+| [Improving Coastal Safety for International Visitors](https://doi.org/10.1016/j.puhip.2025.100613) | Public Health in Practice 2025 |
+| [Novel Deep Learning for Tide Detection](https://doi.org/10.12912/27197050/200492) | Ecological Engineering 2025 |
+| [Managing Sustainable Tourism of Beach](https://doi.org/10.30892/gtg.58107-1392) | GeoJournal of Tourism & Geosites 2025 |
+| [WHO: World Drowning Prevention Day](https://www.who.int/campaigns/world-drowning-prevention-day) | WHO 2025 |
+| [Distributed Acoustic Sensing for Ocean](https://doi.org/10.58046/5J60-FJ89) | Ocean Applications 2025 |
+| [Efficient Detector for Maritime SAR Objects](https://www.mdpi.com/drones) | Drones 2025 |
 
 
 [**➜ Full Bibliography**](papers/bibliography.bib)
