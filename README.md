@@ -200,7 +200,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
    ```
 
 ### Categories
-1. **Vision-Based AI Systems** (45 papers)
+#### 1. **Vision-Based AI Systems** (45 papers)
    - Object detection (YOLO, Faster R-CNN, SSD)
    - Semantic segmentation
    - Activity recognition
@@ -243,7 +243,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [SynBASe: Synthetic Data for Maritime SAR](https://doi.org/10.1016/j.engappai.2024.109586) | Engineering Applications of AI 2025 |
 
 
-2. **Sensor-Based Systems** (38 papers)
+#### 2. **Sensor-Based Systems** (38 papers)
    - Wearable technologies
    - Acoustic and environmental sensors
    - Communication protocols
@@ -276,7 +276,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [Distributed Acoustic Sensing for Ocean Applications](https://doi.org/10.58046/5J60-FJ89) | Ocean Applications 2025 |
 
 
-3. **Integrated Multi-Modal Approaches** (32 papers)
+#### 3. **Integrated Multi-Modal Approaches** (32 papers)
    - AI-IoT integration
    - Multi-sensor data fusion
    - Drone-based surveillance
@@ -310,7 +310,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [Hybrid AI-Driven Wearable Sensors](https://doi.org/10.1002/ett.70081) | Emerging Telecommunications Technologies 2025 |
 
 
-4. **Challenges & Applications** (21 papers)
+#### 4. **Challenges & Applications** (21 papers)
    - Environmental robustness
    - Privacy and ethics
    - Regulatory frameworks
@@ -352,7 +352,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [Data Acquisition Gaps & Synthetic Data](https://doi.org/10.1016/j.engappai.2024.109586) | Engineering Applications of AI 2025 |
 
 
-5. **Foundational & Supporting Research**
+#### 5. **Foundational & Supporting Research**
    - Wearable technologies
    - Acoustic and environmental sensors
    - Communication protocols
