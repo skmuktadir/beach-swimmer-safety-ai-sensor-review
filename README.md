@@ -8,7 +8,7 @@ This repository contains the supplementary materials, curated datasets, and orga
 
 📅 Last update on 7 Nov 2025
 ---
-
+<!--
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -109,7 +109,7 @@ beach-swimmer-safety-ai-sensor-review/
 ```
 
 ---
-
+-->
 ## 📊 Datasets
 
 ### Vision-Based Datasets
@@ -453,12 +453,12 @@ Our unified taxonomy organizes beach safety technologies into three main categor
 - **Edge/Cloud AI**: Distributed architectures
 - **Adaptive Response**: Human-in-the-loop systems
 
-![Taxonomy Diagram](taxonomy/taxonomy_diagram.png)
-
+![Taxonomy Diagram](images/Taxonomy_V2.pdf)
+<!--
 [**➜ Detailed Taxonomy**](taxonomy/taxonomy_description.md)
 
 ---
-
+<!--
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -516,7 +516,7 @@ If you use this work in your research, please cite:
 **Paper**: [Link to published paper](#) (Coming soon)
 
 ---
-
+-->
 ## 🔬 Research Gaps Identified
 
 1. **Dataset Scarcity**: Only 10 public datasets, no multi-sensor fusion datasets
@@ -537,7 +537,7 @@ If you use this work in your research, please cite:
 - [ ] Standardized benchmarking protocols
 
 ---
-
+<!--
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
@@ -604,7 +604,7 @@ For questions, suggestions, or collaboration opportunities:
 - **Technologies Reviewed**: Vision AI, IoT, Wearables, UAVs
 
 ---
-
+-->
 **Last Updated**: November 2025
 
 **Repository Status**: 🟢 Active Maintenance
