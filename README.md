@@ -118,11 +118,18 @@ beach-swimmer-safety-ai-sensor-review/
 
 | Dataset | Year | Type | Annotations | Application | Public |
 |---------|------|------|-------------|-------------|--------|
-| [SeaDronesSee](https://seadronessee.cs.uni-tuebingen.de/) | 2022 | UAV Video/Image | BBox: swimmer, floater, life-jacket | Distress detection | ✅ |
-| [MOBDrone](http://aimh.isti.cnr.it/dataset/MOBDrone) | 2022 | UAV Video/Image | BBox: person, boat, lifebuoy | Man-overboard | ✅ |
-| [RipVIS](https://github.com/andreeadeac22/rip_current_dataset) | 2025 | Multi-view Video | Polygon masks: rip currents | Rip current detection | ✅ |
-| [TinyPerson](https://github.com/ucas-vg/TinyPerson) | 2020 | Drone/Web Image | BBox: tiny persons | SAR operations | ✅ |
-| [AFO](https://github.com/HadiFarhat/Floating-Object-Detection) | 2021 | UAV Image | BBox: floating objects | Search and rescue | ✅ |
+| [SeaDronesSee](https://seadronessee.cs.uni-tuebingen.de/) | 2022 | UAV Video/Image | BBox: swimmer, floater, life-jacket, boat | Distress detection & tracking | ✅ |
+| [MOBDrone](http://aimh.isti.cnr.it/dataset/MOBDrone) | 2022 | UAV Video/Image | BBox: person, boat, lifebuoy, surfboard | Man-overboard detection | ✅ |
+| [Swimmer (Lygouras)](https://robotics.pme.duth.gr/swimmers_dataset) | 2019 | UAV Image | BBox: swimmers | Swimmer detection | ✅ |
+| [AFO Floating Objects](https://www.kaggle.com/datasets/jangsienicajzkowy/afo-aerial-dataset-of-floating-objects) | 2021 | UAV Image | BBox: kayak, buoy, boat, swimmer | Floating-object SAR | ✅ |
+| [TinyPerson](http://vision.ucas.ac.cn/sources) | 2020 | Drone/Web Image | BBox: tiny persons | Tiny person detection (SAR, crowd, maritime) | ✅ |
+| [Victims on Ocean](https://drive.google.com/file/d/1JI5AwR04IRTuoE6N3JtTrS62U8H-L36i/view) | 2021 | Synthetic Images (AirSim) | BBox: simulated victims | Synthetic victim detection | ✅ |
+| [DGTA-SeaDronesSee](https://paperswithcode.com/dataset/dgta-seadronessee) | 2021 | Synthetic Images (GTA-V) | BBox: swimmers, boats, floaters | SAR pretraining (domain adaptation) | ✅ |
+| [SynBASe](https://www.dlsi.ua.es/~jgallego/datasets/synbase/) | 2024 | Synthetic Images (Unreal) | BBox: swimmers | Synthetic swimmer detection | ✅ |
+| [RipVIS](https://ripvis.ai) | 2025 | Multi-view Video | Polygon masks: rip current regions | Rip current segmentation | ✅ |
+| de Silva Rip Current Dataset | 2021 | Image + Webcam Video | BBox + frame-level rip labels | Rip current detection | ❌ |
+| Claesson Drone Drowning Dataset | 2020 | UAV Image | BBox: simulated drowning victims | Drowning victim recognition | ❌ |
+
 
 [**➜ Full Dataset Catalog**](datasets/README.md)
 
