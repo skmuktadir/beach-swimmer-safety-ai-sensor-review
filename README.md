@@ -350,7 +350,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [Data Acquisition Gaps & Synthetic Data](https://doi.org/10.1016/j.engappai.2024.109586) | Engineering Applications of AI 2025 |
 
 
-2. **Foundational & Supporting Research**
+5. **Foundational & Supporting Research**
    - Wearable technologies
    - Acoustic and environmental sensors
    - Communication protocols
