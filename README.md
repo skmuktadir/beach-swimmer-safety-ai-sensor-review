@@ -203,36 +203,46 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
    - Semantic segmentation
    - Activity recognition
 
-  | Paper | Published in |
-|-------|:------------:|
+| Paper | Published in |
+|-------|--------------|
 | [SeaDronesSee: A Maritime Benchmark for Detecting Humans in Open Water](https://openaccess.thecvf.com/content/WACV2022/html/Varga_Seadronessee_A_Maritime_Benchmark_for_Detecting_Humans_in_Open_Water_WACV_2022_paper.html) | WACV 2022 |
 | [MOBDrone: Drone Video Dataset for Man-Overboard Rescue](http://aimh.isti.cnr.it/dataset/MOBDrone) | arXiv 2022 |
 | [Outdoor Swimmers Detection System with Small Object Detection](https://doi.org/10.1007/s00530-022-00995-7) | Multimedia Systems 2022 |
 | [MS-YOLO: Lightweight YOLO Model for Drowning Detection](https://doi.org/10.3390/s24216955) | Sensors 2024 |
+| [YOLO-Rip: Modified Lightweight Network for Rip Currents](https://doi.org/10.3389/fmars.2022.930478) | Frontiers in Marine Science 2022 |
+| [Automated Rip Current Detection with F-RCNN](https://doi.org/10.1016/j.coastaleng.2021.103859) | Coastal Engineering 2021 |
 | [DeepDASH: Swimmer Detection, Tracking & Action Localization](https://doi.org/10.1007/s00521-020-05485-3) | Neural Computing & Applications 2020 |
-| [Smart Multi-Sensor Drowning Detection Device](https://doi.org/10.1109/jsen.2024.3518436) | IEEE Sensors Journal 2025 |
-| [Technological Approaches for Drowning Detection – Review](https://doi.org/10.3390/s24020331) | Sensors 2024 |
-| [Automated Drowning Detection Review & Challenges](https://www.mdpi.com/2078-2489/15/11/721) | Information 2024 |
-| [Dataset Rebalancing for Drone Maritime Rescue](https://doi.org/10.1007/s00371-025-04098-y) | The Visual Computer 2025 |
-| [AI-Powered Swimming Pool Drowning Prevention with IoT](https://doi.org/10.1016/j.heliyon.2024.e35484) | Heliyon 2024 |
-| [Infant Drowning Detection using YOLOv5 & Faster-RCNN](https://doi.org/10.23919/JSC.2023.0006) | Journal of Social Computing 2023 |
-| [Video Drowning Detection on Jetson with CNN](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12765) | IET Image Processing 2023 |
-| [3D CNN-LSTM Foreground Segmentation](https://doi.org/10.1109/TITS.2019.2900426) | IEEE T-ITS 2020 |
+| [Neural Network-Based Drowning Detection in Coastal Lines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6910967/) | Journal of Injury and Violence Research 2019 |
+| [CCTV-Based Swimmer Detection and Rip Current Monitoring](https://doi.org/10.2112/SI72-007.1) | Journal of Coastal Research 2014 |
+| [Drone-Based Shark Detection with ML](https://doi.org/10.3390/DRONES4020018) | Drones 2020 |
+| [Drones & ML for Simulated Drowning Victim Recognition](https://doi.org/10.1016/j.resuscitation.2020.09.022) | Resuscitation 2020 |
+| [AI-Driven Beach Usage Monitoring with Drones](https://doi.org/10.3390/drones8100579) | Drones 2024 |
+| [RipVIS: Rip Current Video Instance Segmentation](https://arxiv.org/abs/2504.01128) | arXiv 2025 |
+| [SynBASe: Synthetic Data for Maritime Search & Rescue](https://doi.org/10.1016/j.engappai.2024.109586) | Engineering Applications of AI 2025 |
+| [TinyPerson: Tiny Person Detection Dataset](https://doi.org/10.1109/WACV45572.2020.9093394) | WACV 2020 |
+| [Aerial Floating Objects (AFO) Dataset](https://doi.org/10.3233/ICA-210649) | Integrated Computer-Aided Engineering 2021 |
+| [DGTA-SeaDronesSee: Synthetic Pre-training Dataset](https://arxiv.org/abs/2112.12252) | arXiv 2021 |
+| [Victims on Ocean: Synthetic Victim Detection](https://doi.org/10.1109/ICCE48956.2021.9352109) | IEEE ICCE 2021 |
+| [Lightweight YOLOv8 for Outdoor Drowning Detection](https://doi.org/10.1007/s11554-025-01638-6) | Journal of Real-Time Image Processing 2025 |
+| [BR-YOLOv4: Behavior Recognition for Drowning](https://doi.org/10.1007/s11760-021-02124-9) | Signal, Image and Video Processing 2022 |
+| [Swimming-YOLO: Multi-Scenario Drowning Detection](https://doi.org/10.1007/s11760-024-03744-7) | Signal, Image and Video Processing 2024 |
+| [Video-Based Drowning Detection with Active Contours](https://www.mecs-press.org/ijigsp/ijigsp-v6-n1/IJIGSP-V6-N1-1.pdf) | IJIGSP 2014 |
+| [Early Drowning Detection in Deep Water using YOLOv3](https://doi.org/10.1007/s11760-021-01953-y) | Signal, Image and Video Processing 2022 |
+| [3D CNN-LSTM for Foreground Segmentation](https://doi.org/10.1109/TITS.2019.2900426) | IEEE T-ITS 2020 |
 | [Mask-Refined R-CNN for Instance Segmentation](https://doi.org/10.3390/s20041010) | Sensors 2020 |
-| [Lightweight Outdoor Drowning Detection via YOLOv8](https://doi.org/10.1007/s11554-025-01638-6) | JRTIP 2025 |
-| [Generative AI for Drowning Scene Dataset Generation](https://doi.org/10.1109/ACCESS.2024.3407245) | IEEE Access 2024 |
-| [Real-time UAV Beach Monitoring with CV](https://doi.org/10.1109/ROBOT61475.2024.10797412) | Iberian Robotics Conf. 2024 |
-| [Drone + ML Recognition of Simulated Drowning Victims](https://www.sciencedirect.com/science/article/pii/S0300957220304706) | Resuscitation 2020 |
-| [Synthetic Data for Maritime Body Detection](https://doi.org/10.1016/j.engappai.2024.109586) | Engineering Applications of AI 2025 |
-| [Drowning Behavior Detection in Swimming Pool](https://doi.org/10.1007/s11760-021-02124-9) | SIVP 2022 |
-| [Swimming-YOLO: Drowning Detection in Multiple Swimmers](https://doi.org/10.1007/s11760-024-03744-7) | SIVP 2024 |
-| [Unsupervised Human Detection on UAVs (Lygouras)](https://doi.org/10.3390/s19163542) | Sensors 2019 |
-| [Drone-Based Water Rescue Ensemble Detection](https://doi.org/10.3233/ICA-210649) | ICAE 2021 |
-| [TinyPerson Benchmark for Tiny Object Detection](https://openaccess.thecvf.com/content/WACV2020/html/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.html) | WACV 2020 |
-| [Synthetic Maritime Victim Imagery via UAV Sim](https://doi.org/10.1109/ICCE48956.2021.9352109) | ICCE 2021 |
-| [Leveraging Synthetic Data for UAV Detection](https://arxiv.org/abs/2112.12252) | arXiv 2021 |
-| [RipVIS: Rip Currents Segmentation Benchmark](https://arxiv.org/abs/2504.01128) | arXiv 2025 |
-| [Automated Rip Current Detection with R-CNN](https://arxiv.org/abs/2102.02902) | arXiv 2021 |
+| [Generative AI for Drowning Warning Dataset](https://doi.org/10.1109/ACCESS.2024.3407245) | IEEE Access 2024 |
+| [Real-Time Beach Monitoring with UAVs & Vision](https://doi.org/10.1109/ROBOT61475.2024.10797412) | Iberian Robotics Conference 2024 |
+| [Investigating Real vs Synthetic Training Data for YOLO](https://doi.org/10.3390/ai5020030) | AI 2024 |
+| [Coastal Litter Detection with Drones & 5G](https://doi.org/10.3390/drones8120750) | Drones 2024 |
+| [Beach Usage Assessment with AI & Drones](https://doi.org/10.3390/drones8100579) | Drones 2024 |
+| [Swimming Stroke Recognition with Deep Learning & IMUs](https://doi.org/10.1080/01691864.2022.2160274) | Advanced Robotics 2022 |
+| [Automatic Swimming Activity Recognition with Single IMU](https://doi.org/10.3390/s22155786) | Sensors 2022 |
+| [YOLOv6-nano & YOLOv8-nano for Edge Deployment](https://doi.org/10.3390/s24216955) | Sensors 2024 |
+| [Dataset Rebalancing for UAV Maritime Rescue](https://doi.org/10.1007/s00371-025-04098-y) | The Visual Computer 2025 |
+| [MA_CBAM-YOLOv4 with Attention](https://doi.org/10.1016/j.heliyon.2024.e35484) | Heliyon 2024 |
+| [Convolutional Autoencoder for Drowning Detection](https://doi.org/10.1007/s00521-023-08526-9) | Neural Computing & Applications 2023 |
+| [Video Drowning Detection with Edge Deployment](https://doi.org/10.1049/ipr2.12765) | IET Image Processing 2023 |
+| [Jetson TX1-Based Drone Beach Rescue Simulation](https://doi.org/10.1007/s00530-022-00995-7) | Multimedia Systems 2022 |
 
 
 2. **Sensor-Based Systems** (38 papers)
