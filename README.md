@@ -280,36 +280,33 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
    - Drone-based surveillance
 
 | Paper | Published in |
-|-------|:------------:|
-| [SharkEye: Real-Time Autonomous Shark Alerting via Aerial Surveillance](https://doi.org/10.3390/DRONES4020018) | Drones 2020 |
-| [SeaDronesSee: Maritime Benchmark for Detecting Humans in Open Water](https://wacv2022.thecvf.com/) | WACV 2022 |
-| [MOBDrone: Drone Video Dataset for Man-Overboard Rescue](http://aimh.isti.cnr.it/dataset/MOBDrone) | arXiv 2022 |
-| [Smart Multi-Sensor Device to Detect Distress in Swimmers](https://www.mdpi.com/1424-8220/22/3/1059) | Sensors 2022 |
-| [Smart Cameras + 5G for Safe Coastal Areas](https://doi.org/10.1109/MVT.2017.2753540) | IEEE Vehicular Tech Mag 2017 |
-| [Smart Drowning Detection via RSSI Zigbee](https://doi.org/10.2991/978-94-6463-718-2_158) | ICSICE 2025 |
+|-------|--------------|
+| [AI & IoT Integration for Beach Safety](https://doi.org/10.1109/MVT.2017.2753540) | IEEE Vehicular Technology Magazine 2017 |
+| [Optimal Sensor Placement for Artificial Swimmers](https://doi.org/10.1017/jfm.2019.940) | Journal of Fluid Mechanics 2019 |
+| [Sharkeye: Real-Time Shark Alert System](https://doi.org/10.3390/DRONES4020018) | Drones 2020 |
+| [SafeSwim: Overhead Vision System](https://doi.org/10.1109/ARGENCON49523.2020.9505478) | IEEE ARGENCON 2020 |
+| [Automated Pool Monitoring with Transfer Learning](https://doi.org/10.3390/electronics9122082) | Electronics 2020 |
+| [Multi-Sensor Data Fusion Architectures](https://doi.org/10.3390/s21217007) | Sensors 2021 |
+| [Ensemble ML for Water Quality Prediction](https://doi.org/10.1016/j.scitotenv.2020.142760) | Science of the Total Environment 2021 |
+| [SOSeas: Neural Network Risk Assessment](https://doi.org/10.1080/1755876X.2021.1999107) | Journal of Operational Oceanography 2021 |
+| [UAV-Assisted B5G/6G Mobile Edge Computing](https://doi.org/10.3390/drones6070177) | Drones 2022 |
+| [Framework for Swimming Analytics with Wearables](https://doi.org/10.3390/s21155162) | Sensors 2021 |
+| [AI-Driven Drowned-Detection for Coastal Rescue](https://doi.org/10.1007/s41324-023-00549-7) | Spatial Information Research 2023 |
+| [BeWastMan: Autonomous Beach Waste Management](https://doi.org/10.1109/ACCESS.2023.3317689) | IEEE Access 2023 |
+| [Real-Time Multi-Object Tracking with Sensor Fusion](https://doi.org/10.3390/pr11020501) | Processes 2023 |
+| [Multi-Sensor Navigation for Blind & Visually Impaired](https://doi.org/10.3390/s23125411) | Sensors 2023 |
+| [Cloud Computing & AI for Swimmer Technique Enhancement](https://doi.org/10.1007/s11036-023-02167-x) | Mobile Networks & Applications 2023 |
 | [Robust IoT System for Smart Beaches](https://doi.org/10.1016/j.iot.2024.101295) | Internet of Things 2024 |
-| [Automated Pool Safety with IoT & Transfer Learning](https://doi.org/10.3390/electronics9122082) | Electronics 2020 |
-| [Enhancing Water Safety: New Technologies for Drowning Detection](https://doi.org/10.3390/s24020331) | Sensors 2024 |
-| [Next-Gen Drowning Prevention (AI + IoT)](https://doi.org/10.1016/j.heliyon.2024.e35484) | Heliyon 2024 |
-| [Real-Time Beach Monitoring Using UAVs & Vision](https://doi.org/10.1109/ROBOT61475.2024.10797412) | ROBOT 2024 |
-| [DGTA-SeaDronesSee: Synthetic Data for UAV Detection](https://arxiv.org/abs/2112.12252) | arXiv 2021 |
-| [SynBASe: Synthetic Data for Swimmer Detection](https://doi.org/10.1016/j.engappai.2025.109586) | Eng. App. of AI 2025 |
-| [RipVIS: Rip Currents Video Benchmark](https://arxiv.org/abs/2504.01128) | arXiv 2025 |
-| [SeaPerson: Tiny-Person Detection Dataset](https://github.com/ucas-vg/PointTinyBenchmark) | Dataset 2022 |
-| [Sonar Swimmer Location Monitor](https://doi.org/10.1121/1.1492881) | JASA 2002 |
-| [AquaSense Wearable AI System](https://doi.org/10.1002/ett.70081) | Emerging Telecom Tech 2025 |
-| [Swimmer Safety Alert System (Marine Threats)](https://doi.org/10.55524/ijircst.2024.12.4.8) | IJIRCST 2024 |
-| [Data Fusion Accuracy Prediction](https://doi.org/10.3390/s21217007) | Sensors 2021 |
-| [Cloud + AI for Swimmer Movement](https://doi.org/10.1007/s11036-023-02167-x) | Mobile Net & Apps 2023 |
-| [Unsupervised Multi-Source Fusion](https://doi.org/10.1016/j.inffus.2021.10.017) | Information Fusion 2022 |
-| [Real-Time Multi-Sensor Tracking](https://doi.org/10.3390/pr11020501) | Processes 2023 |
-| [Wearable Swimming Analysis Framework](https://doi.org/10.3390/s21155162) | Sensors 2021 |
-| [Beach Water Quality Ensemble Models](https://doi.org/10.1016/j.scitotenv.2020.142760) | STOTEN 2021 |
-| [Rip Current ML Vulnerability Model](https://doi.org/10.1016/j.rineng.2023.101704) | Results in Eng. 2024 |
-| [SOSeas: Drowning Risk Prediction Tool](https://doi.org/10.1080/1755876X.2021.1999107) | J. Operational Oceanography 2021 |
-| [Drone Revolution in Shark Monitoring](https://doi.org/10.3390/drones5010008) | Drones 2021 |
-| [Drone Edge-AI Litter Detection System](https://doi.org/10.3390/drones8120750) | Drones 2024 |
-| [UAV-Assisted 6G Smart Safety Survey](https://doi.org/10.3390/drones6070177) | Drones 2022 |
+| [AI-Powered Pool Monitoring with IoT](https://doi.org/10.1016/j.heliyon.2024.e35484) | Heliyon 2024 |
+| [5G & Drone Integration for Coastal Litter](https://doi.org/10.3390/drones8120750) | Drones 2024 |
+| [Swimmer Alert System with IoT & Wi-Fi](https://doi.org/10.55524/ijircst.2024.12.4.8) | IJIRCST 2024 |
+| [Advanced Sensor-Driven Drowning Prevention](https://doi.org/10.1109/ICICNIS64247.2024.10823289) | ICICNIS 2024 |
+| [Drone Network for Distressed Person Localization](https://doi.org/10.3390/drones8090465) | Drones 2024 |
+| [UAV Laser Scanning for Beach Monitoring](https://doi.org/10.1109/ROBOT61475.2024.10797412) | ROBOT 2024 |
+| [Machine Learning for Rip Current Prediction](https://doi.org/10.1016/j.rineng.2023.101704) | Results in Engineering 2024 |
+| [Novel Deep Learning for Tide Detection](https://doi.org/10.12912/27197050/200492) | Ecological Engineering 2025 |
+| [Hybrid AI-Driven Wearable Sensors](https://doi.org/10.1002/ett.70081) | Emerging Telecommunications Technologies 2025 |
+
 
 4. **Challenges & Applications** (21 papers)
    - Environmental robustness
