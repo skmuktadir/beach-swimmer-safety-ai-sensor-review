@@ -206,8 +206,6 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
    AND AI -"swimming pool"
    ```
 
-### Categories
-
 #### 1. **Vision-Based AI Systems** (45 papers)
 - **Object detection:** YOLO, Faster R-CNN, SSD  
 - **Semantic segmentation**  
