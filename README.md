@@ -132,13 +132,13 @@ beach-swimmer-safety-ai-sensor-review/
 
 ## 📚 Paper Collection
 
-Our systematic review identified 145 relevant papers, of which 136 peer-reviewed studies were included in accordance with PRISMA guidelines.
+Our systematic review identified 154 relevant papers, of which 136 peer-reviewed studies were included in accordance with PRISMA guidelines.
 
 ### Search Process
 - **Initial records**: 2,727 papers  
 - **After screening**: 2,183 papers  
 - **Final inclusion**: 136 papers  
-- **Total papers considered in this review**: 145  
+- **Total papers considered in this review**: 154  
 
 
 We conducted systematic searches across multiple academic databases (IEEE Xplore, ACM Digital Library, Scopus, Google Scholar, Web of Science, and PubMed) using the following comprehensive query:
