@@ -517,7 +517,7 @@ If you use this work in your research, please cite:
 4. **Privacy & Ethics**: Need for privacy-preserving architectures
 
 ---
-
+<!--
 ## 🛣️ Future Research Directions
 
 ### Priority Areas
@@ -529,7 +529,7 @@ If you use this work in your research, please cite:
 - [ ] Standardized benchmarking protocols
 
 ---
-<!--
+
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
