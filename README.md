@@ -128,15 +128,6 @@ beach-swimmer-safety-ai-sensor-review/
 | de Silva Rip Current Dataset | 2021 | Image + Webcam Video | BBox + frame-level rip labels | Rip current detection | ❌ |
 | Claesson Drone Drowning Dataset | 2020 | UAV Image | BBox: simulated drowning victims | Drowning victim recognition | ❌ |
 
-
-[**➜ Full Dataset Catalog**](datasets/README.md)
-
-### Sensor-Based Systems
-
-- **Wearable Sensors**: IMU, accelerometer, SpO₂, heart rate, depth sensors
-- **Environmental Sensors**: Sonar, thermal imaging, radar, LiDAR
-- **Communication**: LoRa, BLE, NB-IoT, GPS
-
 ---
 
 ## 📚 Paper Collection
@@ -204,7 +195,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
    AND AI -"swimming pool"
    ```
 
-#### 1. **Vision-Based AI Systems** (45 papers)
+#### 1. **Vision-Based AI Systems**
 - **Object detection:** YOLO, Faster R-CNN, SSD  
 - **Semantic segmentation**  
 - **Activity recognition**
@@ -247,7 +238,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [RipVIS: Rip Current Video Instance Segmentation](https://arxiv.org/abs/2504.01128) | arXiv 2025 |
 | [SynBASe: Synthetic Data for Maritime SAR](https://doi.org/10.1016/j.engappai.2024.109586) | Engineering Applications of AI 2025 |
 
-#### 2. **Sensor-Based Systems** (38 papers)
+#### 2. **Sensor-Based Systems**
 - **Wearable technologies**  
 - **Acoustic and environmental sensors**  
 - **Communication protocols**
@@ -281,7 +272,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [Distributed Acoustic Sensing for Ocean Applications](https://doi.org/10.58046/5J60-FJ89) | Ocean Applications 2025 |
 
 
-#### 3. **Integrated Multi-Modal Approaches** (32 papers)
+#### 3. **Integrated Multi-Modal Approaches**
 - **AI–IoT integration**  
 - **Multi-sensor data fusion**  
 - **Drone-based surveillance**
@@ -316,7 +307,7 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [Hybrid AI-Driven Wearable Sensors](https://doi.org/10.1002/ett.70081) | Emerging Telecommunications Technologies 2025 |
 
 
-#### 4. **Challenges & Applications** (21 papers)
+#### 4. **Challenges & Applications**
 - **Environmental robustness**  
 - **Privacy and ethics**  
 - **Regulatory frameworks**
@@ -429,8 +420,9 @@ To ensure comprehensive coverage, we executed six specialized queries focusing o
 | [Distributed Acoustic Sensing for Ocean](https://doi.org/10.58046/5J60-FJ89) | Ocean Applications 2025 |
 | [Efficient Detector for Maritime SAR Objects](https://www.mdpi.com/drones) | Drones 2025 |
 
-
+<!--
 [**➜ Full Bibliography**](papers/bibliography.bib)
+-->
 
 ---
 
@@ -604,8 +596,8 @@ For questions, suggestions, or collaboration opportunities:
 - **Technologies Reviewed**: Vision AI, IoT, Wearables, UAVs
 
 ---
--->
 **Last Updated**: November 2025
+-->
 
 **Repository Status**: 🟢 Active Maintenance
 
