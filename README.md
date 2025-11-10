@@ -511,10 +511,10 @@ If you use this work in your research, please cite:
 -->
 ## 🔬 Research Gaps Identified
 
-1. **Dataset Scarcity**: Only 10 public datasets, no multi-sensor fusion datasets
-2. **Model Transferability**: Limited cross-beach generalization studies
-3. **End-to-End Integration**: Gap between AI detection and rescue actuation
-4. **Privacy & Ethics**: Need for privacy-preserving architectures
+1. **Dataset Availability**: Very few public datasets exist, and no publicly available datasets support multi-sensor fusion.
+2. **Model Transferability**: Limited research examines how well models generalize across different beach environments.
+3. **End-to-End Integration**: A significant gap remains between AI-based detection systems and real-world rescue actuation workflows.
+4. **Privacy and Ethics**: Need for architectures that ensure privacy preservation and responsible data handling.
 
 ---
 <!--
