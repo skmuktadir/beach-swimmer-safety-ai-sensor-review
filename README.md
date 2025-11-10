@@ -6,7 +6,7 @@
 
 This repository contains the supplementary materials, curated datasets, and organized bibliography for our systematic review paper examining AI-driven drowning detection and swimmer safety technologies.
 
-📅 Last update on 7 Nov 2025
+📅 Last update on 10 Nov 2025
 ---
 <!--
 ## 📋 Table of Contents
